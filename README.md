@@ -1,9 +1,7 @@
-# torrenting
-A list of magnet links of all the torrenting on my PC.
+# torrenting_currently 
 
-# torrenting_currently 22:37 10/06/2021
+A list of files that I'm currently torrenting (22:41 10/06/2021)
 
-A list of files that I'm currently torrenting and that I've pinned them to IPFS.
   Name: 287e0145e8cfb0b88bbf64afeff5620dabaea91d
   
   Magnet: magnet:?xt=urn:btih:287e0145e8cfb0b88bbf64afeff5620dabaea91d&dn=287e0145e8cfb0b88bbf64afeff5620dabaea91d
@@ -365,5 +363,4 @@ Donations would allow me to buy more hardware needed for torrenting.
 Monero (XMR):
 
 88S2BYSVUHYiZk7mosqnWGHerYxspZ4MEQ9N2PkpbviE6frTQiiuSzBDkPvPsFDwgSfPNHNog91qsHLi8pYDysLu3Twom9R
-
 
